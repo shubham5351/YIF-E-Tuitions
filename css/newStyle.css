@@ -473,7 +473,7 @@ nav li a {
 .mydiv {
   height: 140px;
   width: 102%;
-  margin-top: 0px;
+  margin-top: -4px;
   background-color: black;
   position: relative;
   color: white;
